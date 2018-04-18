@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My FileScanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_start">Start</string>
+    <string name="button_restart">Restart</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_share">Share</string>
+
+    <string name="store_scanned">External Storage Scanned</string>
+    <string name="add_receipent">Add Receipent</string>
+
+    <string name="file_data">Largest 10 files</string>
+    <string name="ext_data">Most frequent 5 ext</string>
+
+</resources>
