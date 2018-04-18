@@ -1,10 +1,4 @@
-Android coding assesment for Gspann which was accepted.
-
-Android Programming Assessment
-
-##Goal:
-
-Write an app that scans all files on the external storage (SD card) and collects following information:
+App that scans all files on the external storage (SD card) and collects following information:
 
 ∙ Names and sizes of 10 biggest files
 
@@ -33,13 +27,3 @@ sharing menu (button is not active until the activity receives the statistics fr
 ∙ When app is stopped by the user (by pressing BACK button), the scan must be stopped
 
 immediately.
-
-##Technical Details:
-
-∙ Project must be in Android Studio.
-
-∙ Project must use all the recent (new) Android SDK features.
-
-∙ Project must support all versions starting from Android 4.0.
-
-
